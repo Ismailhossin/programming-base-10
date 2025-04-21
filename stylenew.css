@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+}
+.lorem{
+    background-image: url('images-faill/l.JPG');
+    height: 500px;
+    background-size: 500px;
+}
+p{
+    color: aqua;
+}
+#short{
+    font-size: 25px;
+    
+}
+input[type="button"]{
+    padding: 10px;
+    background-color: aqua;
+    
+}
+.blog{
+    border: 2px solid darkturquoise;
+    border-radius: 10px;
+    width: 50%;
+    margin: 20px;
+    padding: 20px;
+    text-align: justify; 
+    text-decoration: underline;
+    box-shadow: 10px 10px 30px;
+}
+    /* margin: 20px; T
+       margin: 10px 30px; T-B
+       margin: 20px 50px 100px; t r-l b
+       margin: 10px 30px 50px 80px; T R L B 
+
+       pndding: 20px; T
+       pndding: 10px 30px; T-B
+       pndding: 20px 50px 100px; t r-l b
+       pndding: 10px 30px 50px 80px; T R L B */
+.viji{
+    visibility: hidden;
+    /* display: none; */
+}
+
+
+
+
+
+
+

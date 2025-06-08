@@ -221,3 +221,32 @@ ul > li:nth-child(3n+1) {
 input::placeholder{
     color: rgb(40, 7, 255);
 }
+
+.container-1{
+    display: flex;
+    justify-content: center;
+    /* justify-content: flex-start; */
+    /* justify-content: flex-end; */
+    /* justify-content: space-between; */
+    /* justify-content: space-around; */
+    /* justify-content: space-evenly; */
+
+    /* align-items: flex-start; */
+    /* align-items: center; */
+    /* align-items: flex-end; */
+
+    /* flex-direction: column; */
+    /* flex-direction: column-reverse; */
+    /* flex-direction: row; */
+    /* flex-direction: row-reverse; */
+    flex-wrap: wrap;
+    border: 2px solid yellowgreen;
+    margin: 20px;
+    height: auto;
+}
+.box-1{
+    width: 100px;
+    height: 100px;
+    border: 2px dotted rgb(30, 255, 0);
+    margin: 20px;
+}
